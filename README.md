@@ -6,3 +6,5 @@ The purpose of SQLProductsByPrice is to show products ordered by price from high
 The purpose of SQLProductsGT25 is to show products ordered by price starting at 25 in ascending order
 
 The purpose of NetworkDesign is to show a example of a wireless mesh topology It includes a modem, switch and 4 wireless access points. I picked a wireless mesh as my topolgy of choice because it requires no cables and is completely wireless they're also extremely redundant because they don't rely on every access point working if one fails they can still communicate with the working access points and the modem.
+
+The purpose of MyHTML is to show a basic example of beginner HTML
