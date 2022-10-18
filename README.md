@@ -10,3 +10,5 @@ The purpose of NetworkDesign is to show a example of a wireless mesh topology It
 The purpose of MyHTML is to show a basic example of beginner HTML
 
 The purpose of Mypage is to showcase a simple website I built using notepad about how to obtain a CompTIA Sec+ Certification and the purpose of Mypage.html is to show the code I created to make the website using notepad
+
+The purpose of MypageWithCSS is to showcase a updated verison of Mypage with CSS added MypageWithCSS.html is the code I used to create my website
